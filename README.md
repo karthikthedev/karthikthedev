@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
   </a>
 </div>
+
+
 # 👋 Hey there, I'm Karthik!
 A Computer Science grad who loves turning caffeine into code ☕💻. I build full-stack apps, break stuff (on purpose, usually), and chase clean code like it’s a high score. Passionate about fintech, data, and figuring out why my best ideas happen after midnight. Always learning, always building, and sometimes debugging in my dreams.
 
